@@ -12,7 +12,7 @@ foi interessante e muito proveitoso explorar essa ferramenta.
 Posteriormente, explorei parte da aplicação com o frontend totalmente apartado do backend com a framework Vue.
 Desta forma, por questóes didáticas, podemos explorar os dois métodos de integração da View ao backend.
 
-![Alt ou título da imagem](https://m.media-amazon.com/images/I/618tJ9j7+WL._AC_SY300_SX300_.jpg)
+![Alt ou título da imagem](https://github.com/Denise-Melo/AluraMudi/blob/main/imagens/Captura%20de%20tela%20de%202022-12-12%2011-30-03.png)
 
 ## **Tecnologias utilizadas**
 
