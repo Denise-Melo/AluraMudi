@@ -1,4 +1,5 @@
 # AluraMudi
+https://denise-melo.github.io/AluraMudi/
 
 ## **Sobre o projeto**
 > Este projeto consiste na aplicação de um site em que é possivel a interação entre usuários logados, para que possam transacionar a compra de produtos fora
@@ -27,7 +28,7 @@ Desta forma, por questóes didáticas, podemos explorar os dois métodos de inte
 * [X]  Performace da aplicação com Cache
 * [X]  Uso do interceptador, estendendo a classe HandlerInterceptorAdaptor e registrando no InterceptorRegistry
        
-## **Melhorias a serem implementadaas**
+## **Melhorias a serem implementadas**
 * [X]  Formulário de "cadastre-se"
 * [X]  autenticação com JWT
 * [X]  persistencia dos dados do Interceptor no banco de dados
