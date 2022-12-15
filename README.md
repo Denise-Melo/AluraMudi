@@ -7,7 +7,7 @@ do país.
 Arquitetado em Java SpringBoot, Tymeleaf e Vue, além do banco de dados com SQL no MySQL.
 
 ## **Layout da página**
-> O frontend foi feito no próprio backand, utilizando-se o Tymeleaf, embora não seja recomendado, principalmente por questóes de performace, 
+> O frontend foi feito no próprio backand, utilizando-se o Tymeleaf, embora não seja recomendado, principalmente por questões de performace, 
 foi interessante e muito proveitoso explorar essa ferramenta.
 Posteriormente, explorei parte da aplicação com o frontend totalmente apartado do backend com a framework Vue.
 Desta forma, por questóes didáticas, podemos explorar os dois métodos de integração da View ao backend.
